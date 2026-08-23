@@ -1,0 +1,11 @@
+{
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "type": "image/svg+xml"
+    }
+  ],
+  "name": "Máy dịch",
+  "start_url": "/may-dich/"
+}
