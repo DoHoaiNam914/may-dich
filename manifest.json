@@ -1,11 +1,15 @@
 {
+  "background_color": "#eeeded",
+  "categories": ["productivity", "utilities"],
   "display": "standalone",
   "icons": [
     {
-      "src": "./favicon.svg",
+      "src": "favicon.svg",
       "type": "image/svg+xml"
     }
   ],
   "name": "Máy dịch",
-  "start_url": "/may-dich/"
+  "scope": "/may-dich/",
+  "start_url": "/may-dich/",
+  "theme_color": "#eeeded"
 }
