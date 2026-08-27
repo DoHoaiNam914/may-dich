@@ -1,6 +1,6 @@
 'use strict'
 /* global addEventListener, caches, clients, fetch, skipWaiting */
-const cacheName = '26.08.24-alpha'
+const cacheName = '26.08.27-alpha'
 const precachedResources = [
   '/',
   '/index.html',
