@@ -8,9 +8,9 @@
   "display": "standalone",
   "icons": [
     {
-      "purpose": "any"
+      "purpose": "any",
       "sizes": "any",
-      "src": "favicon.svg",
+      "src": "/may-dich/favicon.svg",
       "type": "image/svg+xml"
     }
   ],
