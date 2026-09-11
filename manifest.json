@@ -10,7 +10,7 @@
     {
       "purpose": "any",
       "sizes": "any",
-      "src": "/may-dich/favicon.svg",
+      "src": "favicon.svg",
       "type": "image/svg+xml"
     }
   ],
